@@ -1,3 +1,7 @@
+### Configuration
+
+It is necessary to add the Firebase configuration to the firebase.js file.
+
 ### About the APP CRUD - barbershop
 
 - It is an app created with React, using Bootstrap and Firebase.
